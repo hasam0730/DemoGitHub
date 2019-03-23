@@ -11,5 +11,5 @@ import Foundation
 
 
 class demo2 {
-	
+	var name: String?
 }
