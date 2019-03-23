@@ -14,6 +14,7 @@ class ViewController: UIViewController {
 	override func viewDidLoad() {
 		super.viewDidLoad()
 		// Do any additional setup after loading the view, typically from a nib.
+		textview.text = "Lorem ipsum dolor sit er Lorem ipsum dolor sit er"
 		textview.text = ""
 		textview.text = "Lorem ipsum dolor sit er"
 	}
